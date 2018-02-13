@@ -1,0 +1,199 @@
+ul{
+	list-style-type: none;
+    margin: -8px;
+    padding: auto;
+    overflow: hidden;
+    background-color: black;
+    position: relative;
+    height: 100px;
+    width: auto;
+}
+
+li a{
+	float: left;
+	margin: 38px 10px ;
+	font-size: 16px;
+	color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: auto;
+}
+
+.main_logo{
+    position: absolute;
+    margin:24px 100px;
+}
+
+
+.right-section {
+    float:right
+
+}
+.logo2{
+    margin-top: 25px;
+    margin-left: 40%;
+    position: absolute;
+ 
+}
+
+.fa {
+    padding: 10px 0px;
+    color: white;
+    margin: 20px 30px 0px 0px;
+    
+}
+.girl_image{
+
+    background: url(pic1.jpg);
+    background-size: cover;
+    height: 723px; 
+}
+
+body,html{
+    padding:0px;
+    margin:0px;
+}
+.text{
+    font-size: 70px;
+    position: absolute;
+    margin: 140px 230px;
+}
+.button{
+    margin: 330px 265px;
+    font-size: 35px;
+    border: none;
+}
+.heading-2{
+    transform: rotate(-90deg);
+     margin-left: -49px;
+     
+    font-size: 20px;
+    position: absolute;
+    top:43%;
+    color: white;
+    word-spacing: 5px;
+
+    
+}
+
+
+.white-border {
+    height: 5px;
+    width: 50px;
+    border-top: 2px solid white;
+    position: absolute;
+    top:50%;
+    left:80px;
+}
+
+p.right-border{
+    transform: rotate(90deg);
+     
+    font-size: 20px;
+    position: absolute;
+    top:43%;
+    right: -4%;
+    color: white;
+    word-spacing: 5px;
+    border-left-style: 2px solid white; 
+
+}
+
+.side-border{
+    height: 5px;
+    width: 50px;
+    border-top: 2px solid white;
+    position: absolute;
+    top: 32%;
+    right: -5px;
+    transform: rotate(90deg);
+}
+.side-border2{
+    height: 5px;
+    width: 50px;
+    border-top: 2px solid white;
+    position: absolute;
+    top: 60%;
+    right: -4px;
+    transform: rotate(90deg);
+
+}
+.icons{
+    display: inline-block;
+    margin:auto 10%;
+
+}
+.grid-container{
+    display: grid;
+    grid-gap: auto;
+    grid-template-columns: auto auto auto; 
+    
+    text-align: center;
+
+}
+.icon-text{
+    font-size: 25px;
+    font-style: bold;
+}
+.text-heading{
+    display: grid;
+    grid-gap:auto;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+
+    color: gray;
+
+}
+.list-text1{
+font-size: 18px;
+   text-align: center;
+   margin: 2px -65px;}
+.list-text2{
+    font-size: 18px;
+   text-align: center;
+   margin: 2px auto;
+}
+.list-text3{
+    font-size: 18px;
+   text-align: center;
+   margin: 2px auto;
+}
+.centre-content{
+    text-align: center;
+}
+.fashion{
+    
+    text-align: center;
+    font-style: italic;
+    position: relative;
+    top: 37px;
+    
+
+}
+.fashion span{
+    display: inline-block;
+    height:1px;
+    width:45px;
+    background: #000;
+    vertical-align: middle;
+
+}
+/*.fashion-border{
+    border-right: 59px solid black;
+    height: 1px;
+    width: 550px;
+}
+.fashion-border-right{
+    border-left: 2px solid black;
+    height: 1px;
+    width: 540px;
+    text-align: right;
+}*/
+
+
+
+
+
+
+
+
